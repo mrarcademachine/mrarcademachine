@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrarcademachine
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me: maxim.m.erofeev@gmail.com
 
